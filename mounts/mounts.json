@@ -1,0 +1,178 @@
+{
+  "mounts": [
+    {
+      "id": "car_58",
+      "name": "保時捷 911GT(30D)",
+      "type": "car",
+      "icon": "mnt_car_58"
+    },
+    {
+      "id": "car_59",
+      "name": "保時捷 911GT-II(30D)",
+      "type": "car",
+      "icon": "mnt_car_59"
+    },
+    {
+      "id": "car_60",
+      "name": "冰狐(30D)",
+      "type": "car",
+      "icon": "mnt_car_60"
+    },
+    {
+      "id": "car_61",
+      "name": "布加迪 Veyron(30D)",
+      "type": "car",
+      "icon": "mnt_car_61"
+    },
+    {
+      "id": "car_62",
+      "name": "雪佛蘭 Camaro(30D)",
+      "type": "car",
+      "icon": "mnt_car_62"
+    },
+    {
+      "id": "car_63",
+      "name": "雪佛蘭 Corvette(30D)",
+      "type": "car",
+      "icon": "mnt_car_63"
+    },
+    {
+      "id": "car_64",
+      "name": "阿斯頓馬丁 DBS(30D)",
+      "type": "car",
+      "icon": "mnt_car_64"
+    },
+    {
+      "id": "car_65",
+      "name": "法拉利 F12(30D)",
+      "type": "car",
+      "icon": "mnt_car_65"
+    },
+    {
+      "id": "car_66",
+      "name": "馬自達 RX-7(30D)",
+      "type": "car",
+      "icon": "mnt_car_66"
+    },
+    {
+      "id": "car_67",
+      "name": "福特 GT(30D)",
+      "type": "car",
+      "icon": "mnt_car_67"
+    },
+    {
+      "id": "car_68",
+      "name": "布加迪 Gangloff(30D)",
+      "type": "car",
+      "icon": "mnt_car_68"
+    },
+    {
+      "id": "car_69",
+      "name": "黑色閃電(30D)",
+      "type": "car",
+      "icon": "mnt_car_69"
+    },
+    {
+      "id": "car_70",
+      "name": "法拉利 LaFerrari(30D)",
+      "type": "car",
+      "icon": "mnt_car_70"
+    },
+    {
+      "id": "car_71",
+      "name": "雷克薩斯 LFA(30D)",
+      "type": "car",
+      "icon": "mnt_car_71"
+    },
+    {
+      "id": "car_72",
+      "name": "迷你 Cooper(30D)",
+      "type": "car",
+      "icon": "mnt_car_72"
+    },
+    {
+      "id": "car_73",
+      "name": "標緻 Onyx(30D)",
+      "type": "car",
+      "icon": "mnt_car_73"
+    },
+    {
+      "id": "car_74",
+      "name": "ST1(30D)",
+      "type": "car",
+      "icon": "mnt_car_74"
+    },
+    {
+      "id": "car_75",
+      "name": "Scion FR-S(30D)",
+      "type": "car",
+      "icon": "mnt_car_75"
+    },
+    {
+      "id": "car_76",
+      "name": "雪鐵龍 Survolt(30D)",
+      "type": "car",
+      "icon": "mnt_car_76"
+    },
+    {
+      "id": "car_77",
+      "name": "朱雀(30D)",
+      "type": "car",
+      "icon": "mnt_car_77"
+    },
+    {
+      "id": "car_78",
+      "name": "2025聖誕巡禮跑車(花圈款)(30D)",
+      "type": "car",
+      "icon": "mnt_car_78"
+    },
+    {
+      "id": "car_79",
+      "name": "2025聖誕巡禮跑車(聖誕樹款)(30D)",
+      "type": "car",
+      "icon": "mnt_car_79"
+    },
+    {
+      "id": "car_80",
+      "name": "2025聖誕巡禮跑車(冬雪款)(30D)",
+      "type": "car",
+      "icon": "mnt_car_80"
+    },
+    {
+      "id": "board_skylock_base",
+      "name": "流線噴射滑板",
+      "type": "board",
+      "icon": "mnt_board_skylock_base"
+    },
+    {
+      "id": "board_skylock_skin",
+      "name": "動力噴射滑板",
+      "type": "board",
+      "icon": "mnt_board_skylock_skin"
+    },
+    {
+      "id": "board_cloud",
+      "name": "雲朵飛板(30D)",
+      "type": "board",
+      "icon": "mnt_board_cloud"
+    },
+    {
+      "id": "board_airship",
+      "name": "飛船板(30D)",
+      "type": "board",
+      "icon": "mnt_board_airship"
+    },
+    {
+      "id": "board_skylock_lock",
+      "name": "天鎖飛板(30D)",
+      "type": "board",
+      "icon": "mnt_board_skylock_lock"
+    },
+    {
+      "id": "board_santa",
+      "name": "聖誕雪橇",
+      "type": "board",
+      "icon": "mnt_board_santa"
+    }
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "classIndexOrder": [
+    "FIGHTER_M",
+    "ARMS_M",
+    "ARCHER_W",
+    "SPIRIT_W",
+    "EXTREME_M",
+    "EXTREME_W",
+    "FIGHTER_W",
+    "ARMS_W",
+    "ARCHER_M",
+    "SPIRIT_M"
+  ],
+  "classes": {
+    "0": {
+      "sex": "m",
+      "headCps": [
+        "m_new_face00",
+        "m_new_face01",
+        "m_new_face02",
+        "m_new_face03",
+        "m_new_face04",
+        "m_new_face05",
+        "m_new_face06",
+        "m_face00",
+        "m_face01",
+        "m_face02",
+        "m_face03",
+        "m_face04",
+        "m_face05"
+      ],
+      "hairCps": [
+        "m_hair01",
+        "m_hair00",
+        "m_hair02",
+        "m_hair03",
+        "m_hair04",
+        "m_hair05",
+        "SHW0001_M",
+        "SHW0002_M",
+        "m_hair06",
+        "m_hair07"
+      ]
+    },
+    "1": {
+      "sex": "m",
+      "headCps": [
+        "m_new_face00",
+        "m_new_face01",
+        "m_new_face02",
+        "m_new_face03",
+        "m_new_face04",
+        "m_new_face05",
+        "m_new_face06",
+        "m_face00",
+        "m_face01",
+        "m_face02",
+        "m_face03",
+        "m_face04",
+        "m_face05"
+      ],
+      "hairCps": [
+        "m_hair00",
+        "m_hair01",
+        "m_hair02",
+        "m_hair03",
+        "m_hair04",
+        "m_hair05",
+        "SHW0001_M",
+        "SHW0002_M",
+        "m_hair06",
+        "m_hair07"
+      ]
+    },
+    "2": {
+      "sex": "w",
+      "headCps": [
+        "w_new_face00",
+        "w_new_face01",
+        "w_new_face02",
+        "w_new_face03",
+        "w_new_face04",
+        "w_new_face05",
+        "w_face00",
+        "w_face01",
+        "w_face02",
+        "w_face03",
+        "w_face04"
+      ],
+      "hairCps": [
+        "w_hair00",
+        "w_hair01",
+        "w_hair02",
+        "w_hair03",
+        "w_hair04",
+        "SHW0001_W",
+        "SHW0002_W",
+        "w_hair05",
+        "w_hair06"
+      ]
+    },
+    "3": {
+      "sex": "w",
+      "headCps": [
+        "w_new_face00",
+        "w_new_face01",
+        "w_new_face02",
+        "w_new_face03",
+        "w_new_face04",
+        "w_new_face05",
+        "w_face00",
+        "w_face01",
+        "w_face02",
+        "w_face03",
+        "w_face04"
+      ],
+      "hairCps": [
+        "w_hair01",
+        "w_hair00",
+        "w_hair02",
+        "w_hair03",
+        "w_hair04",
+        "SHW0001_W",
+        "SHW0002_W",
+        "w_hair05",
+        "w_hair06"
+      ]
+    },
+    "4": {
+      "sex": "m",
+      "headCps": [
+        "m_new_face00",
+        "m_new_face01",
+        "m_new_face02",
+        "m_new_face03",
+        "m_new_face04",
+        "m_new_face05",
+        "m_new_face06",
+        "m_face00",
+        "m_face01",
+        "m_face02",
+        "m_face03",
+        "m_face04",
+        "m_face05",
+        "m_face_n01"
+      ],
+      "hairCps": [
+        "m_hair01",
+        "m_hair00",
+        "m_hair02",
+        "m_hair03",
+        "m_hair04",
+        "m_hair05",
+        "SHW0001_M",
+        "SHW0002_M",
+        "m_hair06",
+        "m_hair07"
+      ]
+    },
+    "5": {
+      "sex": "w",
+      "headCps": [
+        "w_new_face00",
+        "w_new_face01",
+        "w_new_face02",
+        "w_new_face03",
+        "w_new_face04",
+        "w_new_face05",
+        "w_face00",
+        "w_face01",
+        "w_face02",
+        "w_face03",
+        "w_face04",
+        "w_face_n01"
+      ],
+      "hairCps": [
+        "w_hair00",
+        "w_hair01",
+        "w_hair02",
+        "w_hair03",
+        "w_hair04",
+        "SHW0001_W",
+        "SHW0002_W",
+        "w_hair05",
+        "w_hair06"
+      ]
+    },
+    "6": {
+      "sex": "w",
+      "headCps": [
+        "w_new_face00",
+        "w_new_face01",
+        "w_new_face02",
+        "w_new_face03",
+        "w_new_face04",
+        "w_new_face05",
+        "w_face00",
+        "w_face01",
+        "w_face02",
+        "w_face03",
+        "w_face04"
+      ],
+      "hairCps": [
+        "w_hair01",
+        "w_hair00",
+        "w_hair02",
+        "w_hair03",
+        "w_hair04",
+        "SHW0001_W",
+        "SHW0002_W",
+        "w_hair05",
+        "w_hair06"
+      ]
+    },
+    "7": {
+      "sex": "w",
+      "headCps": [
+        "w_new_face00",
+        "w_new_face01",
+        "w_new_face02",
+        "w_new_face03",
+        "w_new_face04",
+        "w_new_face05",
+        "w_face00",
+        "w_face01",
+        "w_face02",
+        "w_face03",
+        "w_face04"
+      ],
+      "hairCps": [
+        "w_hair00",
+        "w_hair01",
+        "w_hair02",
+        "w_hair03",
+        "w_hair04",
+        "SHW0001_W",
+        "SHW0002_W",
+        "w_hair05",
+        "w_hair06"
+      ]
+    },
+    "8": {
+      "sex": "m",
+      "headCps": [
+        "m_new_face00",
+        "m_new_face01",
+        "m_new_face02",
+        "m_new_face03",
+        "m_new_face04",
+        "m_new_face05",
+        "m_new_face06",
+        "m_face00",
+        "m_face01",
+        "m_face02",
+        "m_face03",
+        "m_face04",
+        "m_face05"
+      ],
+      "hairCps": [
+        "m_hair00",
+        "m_hair01",
+        "m_hair02",
+        "m_hair03",
+        "m_hair04",
+        "m_hair05",
+        "SHW0001_M",
+        "SHW0002_M",
+        "m_hair06",
+        "m_hair07"
+      ]
+    },
+    "9": {
+      "sex": "m",
+      "headCps": [
+        "m_new_face00",
+        "m_new_face01",
+        "m_new_face02",
+        "m_new_face03",
+        "m_new_face04",
+        "m_new_face05",
+        "m_new_face06",
+        "m_face00",
+        "m_face01",
+        "m_face02",
+        "m_face03",
+        "m_face04",
+        "m_face05"
+      ],
+      "hairCps": [
+        "m_hair01",
+        "m_hair00",
+        "m_hair02",
+        "m_hair03",
+        "m_hair04",
+        "m_hair05",
+        "SHW0001_M",
+        "SHW0002_M",
+        "m_hair06",
+        "m_hair07"
+      ]
+    }
+  },
+  "baseChf": {
+    "m": "o_m.chf",
+    "w": "o_w.chf"
+  },
+  "baseChfPieces": {
+    "m": [
+      "m_face00",
+      "m_bs_body",
+      "m_bs_leg",
+      "m_bs_hand",
+      "m_bs_foot",
+      "m_hair00"
+    ],
+    "w": [
+      "w_face00",
+      "w_bs_body",
+      "w_bs_leg",
+      "w_bs_hand",
+      "w_bs_foot",
+      "w_hair00"
+    ]
+  }
+}
